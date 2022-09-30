@@ -14,6 +14,7 @@ class DNASequence{
     private void countNucleotides(){
     //Asigna los valores a numberOfX
     //identifiacar letra y sumar contador, cantidad de caracteres de la cadena, asignar valores del contador a los campos numberOfX
+    //modificacion para git
 
     for(int x=0; x<DNA.length();x++){
         char letra = DNA.charAt(x);
